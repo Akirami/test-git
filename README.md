@@ -1,7 +1,9 @@
 ### Commandes utiles pour manipuler les branches
   
-  "git branch --merged" indique uniquement les branches qui ont déjà été fusionnées.
-  "git branch --no-merged" indique uniquement les branches qui n'ont pas encore été fusionnées.
+ - ```git branch --merged```
+ Indique uniquement les branches qui ont déjà été fusionnées.
+ - ```git branch --no-merged```
+ Indique uniquement les branches qui n'ont pas encore été fusionnées.
 
 La commande "git checkout nomDeLaBranche" permet de passer sur la branche nomDeLaBranche (qui doit déjà exister), et qui devient alors la branche courante.
 
